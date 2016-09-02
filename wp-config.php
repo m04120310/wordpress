@@ -22,7 +22,7 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'root');
 
 /** MySQL 資料庫密碼，請更改 "password_here" */
-define('DB_PASSWORD', 'ck961229');
+define('DB_PASSWORD', 'wclab12345');
 
 /** MySQL 主機位址 */
 define('DB_HOST', 'localhost');
