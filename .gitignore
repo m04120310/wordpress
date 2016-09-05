@@ -1,1 +1,3 @@
 *.DS_STORE
+wp-config.php
+wp-content/uploads/*
