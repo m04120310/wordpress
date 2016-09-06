@@ -1,0 +1,21 @@
+/*  
+Theme Name: Bugman  
+Theme URI: 
+Description: Bugman theme extends from storefront   
+Author: Bugman team 
+Author URI:  
+Template: storefront  
+Version: 0.1.0  
+*/
+@import url("../storefront/style.css");
+.header-widget-region .widget {
+  margin: 0;
+  padding: 0 0 1em 0;
+  font-size: .857em; }
+
+.home.blog .site-header,
+.home.page:not(.page-template-template-homepage) .site-header,
+.home.post-type-archive-product .site-header {
+  margin-bottom: 0; }
+
+/*# sourceMappingURL=style.css.map */
